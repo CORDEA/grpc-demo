@@ -1,1 +1,1 @@
-# grpc-demo
+# Demonstration of gRPC
